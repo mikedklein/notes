@@ -86,3 +86,6 @@
 [x] - Update business plan to have establish date
 [ ] - When user has finished claim and verify it needs to be removed/swapped out in the slider
 
+[ ] - Need to fix all image imports to be src based and not import based.
+[ ] - Veriff component needs to be server only code
+[ ] - Left off on emails.server.ts
