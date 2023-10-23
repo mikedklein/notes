@@ -88,4 +88,14 @@
 
 [ ] - Need to fix all image imports to be src based and not import based.
 [ ] - Veriff component needs to be server only code
-[ ] - Left off on emails.server.ts
+[ ] - Need to get rid of all the extranaeous import index's
+[ ] - Use all lucide icons instead of svg based ones
+[ ] - Need to make a resources folder of the app for things like healthcheck
+[ ] - Get rid of all `*.d.ts` files
+[ ] - ⬣ ESLint: app/routes/$businessId+/dashboard+/components/onboarding-modal.tsx#L30
+      All imports in the declaration are only used as types. Use `import type`
+[ ] - Only run playwright on PR
+[ ] - Add db creds to our 1password
+[ ] - Remove `console.log(pattern)` from the `sba\small-business\index.tsx` route
+[ ] - Look into adding this <https://github.com/Code-Forge-Net/Remix-Dev-Tools#how-it-looks>
+[ ] - SiteMap <https://github.com/fedeya/remix-sitemap>
